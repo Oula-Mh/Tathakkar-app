@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "613207442601",
+    "project_id": "tathakkar-4d181",
+    "storage_bucket": "tathakkar-4d181.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613207442601:android:069aeb4a65d39580bb15b8",
+        "android_client_info": {
+          "package_name": "com.example.tathakkar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuO38ldcygUvbbnDexwJhyUAD3iqM5TPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613207442601:android:a176bb0a8934290dbb15b8",
+        "android_client_info": {
+          "package_name": "com.tathakkar.tathakkar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuO38ldcygUvbbnDexwJhyUAD3iqM5TPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
